@@ -1,2 +1,2 @@
 # odin-recipes
-Forst Project with "The Odin Project"
+First Project with "The Odin Project"
